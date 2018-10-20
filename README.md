@@ -1,6 +1,6 @@
 # werkflowy
 
-![werkflowy](werkflowy-128.png)
+![werkflowy](./images/icons/werkflowy-128.png)
 
 A simple [WorkFlowy](https://workflowy.com) clone using [Firebase](https://firebase.google.com/).
 
