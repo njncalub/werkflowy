@@ -4,7 +4,7 @@
 
 A simple [WorkFlowy](https://workflowy.com) clone using [Firebase](https://firebase.google.com/).
 
-Logo made by [Gregor Cresnar](https://www.flaticon.com/authors/gregor-cresnar) from [flaticon](https://www.flaticon.com).
+This is a work in progress, if you find a mistake, please [file an issue](https://github.com/njncalub/werkflowy/issues). Thanks!
 
 ## Contributing
 
@@ -19,3 +19,7 @@ Being an open source contributor doesn't just mean writing code, either. You can
 ## Licensing
 
 [MIT](./LICENSE). Take, adapt, use. A link back to this repo is appreciated.
+
+## Credits
+
+Logo made by [Gregor Cresnar](https://www.flaticon.com/authors/gregor-cresnar) from [flaticon](https://www.flaticon.com).
