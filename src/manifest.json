@@ -7,17 +7,17 @@
   "display": "browser",
   "icons": [
     {
-      "src": "images/icons/werkflowy-64.png",
+      "src": "./assets/icons/werkflowy-64.png",
       "sizes": "64x64",
       "type": "image/png"
     },
     {
-      "src": "images/icons/werkflowy-128.png",
+      "src": "./assets/icons/werkflowy-128.png",
       "sizes": "128x128",
       "type": "image/png"
     },
     {
-      "src": "images/icons/werkflowy-512.png",
+      "src": "./assets/icons/werkflowy-512.png",
       "sizes": "512x512",
       "type": "image/png"
     }

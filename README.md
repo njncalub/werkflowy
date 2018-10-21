@@ -1,10 +1,23 @@
 # werkflowy
 
-![werkflowy](./images/icons/werkflowy-128.png)
+![werkflowy](./src/assets/icons/werkflowy-128.png)
 
-A simple [WorkFlowy](https://workflowy.com) clone using [Firebase](https://firebase.google.com/).
+A simple [WorkFlowy](https://workflowy.com) clone using [Angular](https://github.com/angular/angular), [Akita](https://github.com/datorama/akita), and [Firebase](https://firebase.google.com/).
 
 This is a work in progress, if you find a mistake, please [file an issue](https://github.com/njncalub/werkflowy/issues). Thanks!
+
+## Run Web App
+
+```bash
+# navigate to the web directory
+$ cd <project directory>
+
+# install the requirements
+$ npm install
+
+# run the server
+$ ng serve
+```
 
 ## Contributing
 
