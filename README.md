@@ -1,5 +1,8 @@
 # werkflowy
 
+[![License](https://img.shields.io/badge/License-MIT-blue.svg)](./LICENSE)
+[![PRs welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=round-square)](https://egghead.io/series/how-to-contribute-to-an-open-source-project-on-github)
+
 ![werkflowy](./src/assets/icons/werkflowy-128.png)
 
 A simple [WorkFlowy](https://workflowy.com) clone using [Angular](https://github.com/angular/angular), [Akita](https://github.com/datorama/akita), and [Firebase](https://firebase.google.com/).
