@@ -1,5 +1,6 @@
 # werkflowy
 
+![Status](https://img.shields.io/badge/status-planning-red.svg)
 [![License](https://img.shields.io/badge/License-MIT-blue.svg)](./LICENSE)
 [![PRs welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=round-square)](https://egghead.io/series/how-to-contribute-to-an-open-source-project-on-github)
 
